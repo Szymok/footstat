@@ -26,7 +26,7 @@ This project uses OpenCV to detect and track football players on a pitch during 
 -
 ![footstat-simulation](https://user-images.githubusercontent.com/37596854/214179282-38484f58-ab57-4651-b17d-7c9e5a33b1d2.png)
 
-# World Cup Winner Prediction
+# World Cup Winner Prediction 
 
 This project aims to predict the winner of the FIFA World Cup using machine learning techniques. The dataset used for training and testing the model includes past World Cup results and statistics.
 
